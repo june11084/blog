@@ -38,11 +38,22 @@
 .post1 {
   color: darkred;
   font-style: oblique;
+  border: 2px solid black;
+  background-color: #457dd8;
 }
 .post2 {
   color: navy;
   font-family: monospace;
   font-weight: lighter;
+  border: 2px solid black;
+  background-color: yellow;
+}
+.post3 {
+  color: navy;
+  font-family: monospace;
+  font-weight: lighter;
+  border: 2px solid black;
+  background-color: violet;
 }
 
 .aboutme {
